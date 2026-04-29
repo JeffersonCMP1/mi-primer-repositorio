@@ -1,1 +1,7 @@
-System.out.println("hola mundo en java");
+// System.out.println("hola mundo en java");
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+    }
+}
